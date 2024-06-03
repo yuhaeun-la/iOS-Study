@@ -133,7 +133,7 @@ class ViewController: UIViewController {
 본 포스팅에서 제시한 MVVM의 패턴은 View 초기화 시에 모든 데이터 바인딩을 수행해야 하므로 실무에서는 꽤나 큰 제약으로 느껴질 수도 있다. 하지만 구현 과정에서 희생된 약간의 자유도는 낮은 모듈간 결합도와 테스트를 용이성이라는 이점으로 크게 보상된다.
 
 
-참고자료
-[](https://gist.github.com/unnnyong/439555659aa04bbbf78b2fcae9de7661?permalink_comment_id=4277488)
-[Swift에서 MVVM과 MVC 아키텍처 차이점 자세히 파해치기! | ViewModel, Model의 역할 구분하기!!!!](https://dev-with-precious-dreams.tistory.com/267)
+### 참고자료 
+[](https://gist.github.com/unnnyong/439555659aa04bbbf78b2fcae9de7661?permalink_comment_id=4277488)<br>
+[Swift에서 MVVM과 MVC 아키텍처 차이점 자세히 파해치기! | ViewModel, Model의 역할 구분하기!!!!](https://dev-with-precious-dreams.tistory.com/267)<br>
 [단방향 데이터 흐름의 ViewModel](https://hyun-je.github.io/ios/2019/04/13/one_way_data_stream_viewmodel.html)
