@@ -1,4 +1,4 @@
-# 디자인 패턴에 대해 알아보자 ! 
+# 디자인 패턴에 대해 알아보자 ! (미완)
 
 ![image](https://github.com/yuhaeun-la/iOS-Study/assets/65907001/d67206e2-8f42-4486-8070-bb28ec72b257)
 
