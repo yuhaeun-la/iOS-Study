@@ -134,6 +134,6 @@ class ViewController: UIViewController {
 
 
 ### 참고자료 
-[](https://gist.github.com/unnnyong/439555659aa04bbbf78b2fcae9de7661?permalink_comment_id=4277488)<br>
+[MVVM이 과연 SwiftUI에 도움이 될까?](https://gist.github.com/unnnyong/439555659aa04bbbf78b2fcae9de7661?permalink_comment_id=4277488)<br>
 [Swift에서 MVVM과 MVC 아키텍처 차이점 자세히 파해치기! | ViewModel, Model의 역할 구분하기!!!!](https://dev-with-precious-dreams.tistory.com/267)<br>
 [단방향 데이터 흐름의 ViewModel](https://hyun-je.github.io/ios/2019/04/13/one_way_data_stream_viewmodel.html)
